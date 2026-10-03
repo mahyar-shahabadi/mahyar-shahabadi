@@ -35,9 +35,11 @@ I'm Mahyar, an aspiring front-end developer with a bachelor's degree in Computer
 
 ## 🌱 Current focus
 
+<div align="center">
+  
 ![Responsive design](https://img.shields.io/badge/Focus-Responsive%20Design-2563EB?style=flat-square)
 ![Accessibility](https://img.shields.io/badge/Focus-Web%20Accessibility-0891B2?style=flat-square)
 ![Clean code](https://img.shields.io/badge/Focus-Maintainable%20Code-0F766E?style=flat-square)
 
-
+</div>
 
