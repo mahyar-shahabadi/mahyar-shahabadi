@@ -39,7 +39,5 @@ I'm Mahyar, an aspiring front-end developer with a bachelor's degree in Computer
 ![Accessibility](https://img.shields.io/badge/Focus-Web%20Accessibility-0891B2?style=flat-square)
 ![Clean code](https://img.shields.io/badge/Focus-Maintainable%20Code-0F766E?style=flat-square)
 
-I’m putting my skills into practice by building with React, JavaScript, and Tailwind CSS, while improving my approach to responsive layouts, accessibility, and maintainable code.
-
 
 
