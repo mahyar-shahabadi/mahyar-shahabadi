@@ -5,7 +5,6 @@
 
 ### Building thoughtful, responsive experiences for the web
 
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -38,26 +37,3 @@ I'm an aspiring front-end developer and Computer Engineering graduate. I enjoy t
 - Creating practical projects with React, JavaScript, and Tailwind CSS
 - Improving my understanding of responsive design, accessibility, and maintainable code
 - Learning by building, reviewing, and refining real interfaces
-
-## Projects
-
-> Replace these examples with your own repositories when they're ready. A few finished, well-documented projects make a stronger impression than an inflated project list.
-
-- **[Project name](https://github.com/YOUR_GITHUB_USERNAME/your-project)** — Briefly explain what it does and what you built.
-- **[Project name](https://github.com/YOUR_GITHUB_USERNAME/your-project)** — Briefly describe the challenge, solution, and technologies used.
-
-## Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR_PORTFOLIO.example)
-
-</div>
-
-<div align="center">
-
-*Thanks for stopping by — I'm always glad to connect and talk about front-end development.*
-
-</div>
