@@ -4,7 +4,7 @@
 
 ### I build thoughtful, responsive experiences for the web
 
-[![Open to opportunities](https://img.shields.io/badge/Open%20to-Entry--Level%20Front--End%20Roles-2563EB?style=flat-square)](#connect)
+![Open to opportunities](https://img.shields.io/badge/Open%20to-Entry--Level%20Front--End%20Roles-2563EB?style=flat-square)
 [![Education](https://img.shields.io/badge/Education-Computer%20Engineering-7C3AED?style=flat-square)](#about-me)
 
 </div>
