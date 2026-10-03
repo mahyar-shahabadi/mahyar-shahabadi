@@ -41,25 +41,5 @@ I'm Mahyar, an aspiring front-end developer with a bachelor's degree in Computer
 
 I’m putting my skills into practice by building with React, JavaScript, and Tailwind CSS, while improving my approach to responsive layouts, accessibility, and maintainable code.
 
-## 🚀 Projects
 
-I’m adding projects as I build them. Each featured repository will include a live demo, screenshots, and a clear explanation of the decisions behind it.
 
-- **[Project name](https://github.com/YOUR_GITHUB_USERNAME/your-project)** — A short description of the project, its purpose, and the technologies used.
-- **[Project name](https://github.com/YOUR_GITHUB_USERNAME/your-project)** — A short description of the project and a notable feature or challenge.
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=About.me&logoColor=white)](https://YOUR_PORTFOLIO.example)
-
-</div>
-
-<div align="center">
-
-*Thanks for stopping by — I'd be happy to connect and talk about front-end development.*
-
-</div>
