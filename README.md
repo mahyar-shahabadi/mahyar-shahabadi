@@ -28,10 +28,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-**Computer Engineering graduate · Front-end developer · Open to entry-level opportunities**
-
-</div>
