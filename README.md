@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=MAHYAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRONT-END%20DEVELOPER%20%7C%20COMPUTER%20ENGINEERING%20GRADUATE&descAlignY=60&descSize=14" alt="Blue gradient banner introducing Mahyar, front-end developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=MAHYAR&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRONT-END%20DEVELOPER%20%7C%20COMPUTER%20ENGINEERING%20GRADUATE&descAlignY=60&descSize=14" alt="Blue gradient banner introducing Mahyar, front-end developer" />
 
 ### Building responsive, user-friendly experiences for the web
 
